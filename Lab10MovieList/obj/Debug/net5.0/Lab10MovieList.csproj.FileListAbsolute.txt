@@ -1,0 +1,16 @@
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.exe
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.deps.json
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.runtimeconfig.json
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.runtimeconfig.dev.json
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.dll
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\ref\Lab10MovieList.dll
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\bin\Debug\net5.0\Lab10MovieList.pdb
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.csprojAssemblyReference.cache
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.AssemblyInfoInputs.cache
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.AssemblyInfo.cs
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.csproj.CoreCompileInputs.cache
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.dll
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\ref\Lab10MovieList.dll
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.pdb
+C:\Users\cflam\source\repos\Lab10MovieList\Lab10MovieList\obj\Debug\net5.0\Lab10MovieList.genruntimeconfig.cache
