@@ -47,12 +47,32 @@ namespace Lab10MovieList
             {
                 Console.WriteLine("Please select a movie category: Animated, Drama, Horror or Scifi.");
                 string userInput = Console.ReadLine().ToLower();
-                movieDetails(userInput, movies);
+                while (true)
+                {
+                    if(userInput == "animated")
+                    {
+                        movieDetails(userInput, movies);
+                        break;
+                    }
+                    if(userInput == "drama")
+                    {
+                        movieDetails(userInput, movies);
+                        break;
+                    }
+                    if(userInput == "horror")
+                    {
+                        movieDetails(userInput, movies);
+                        break;
+                    }
+                    if(userInput == "scifi")
+                    {
+                        movieDetails(userInput, movies);
+                        break;
+                    }
+                    Console.WriteLine("Invalid selection. Make sure you select one of the four offered categories.");
+                    break;
 
-                
-
-               
-                
+                }               
 
                 Console.Write("Would you like to pick another genre? (y/n): ");
                 answer = Console.ReadLine().ToLower();
@@ -62,32 +82,25 @@ namespace Lab10MovieList
 
             Console.WriteLine("Goodbye");
           
-
-            
-             
-           
-
-            
-
-
         }
 
         public static void movieDetails(string userInput, List<Movie> movies)
         {
+            
             foreach (var film in movies)
             {
-                if (userInput == film.Category.ToLower())
+                if( userInput == film.Category.ToLower())
                 {
                     Console.WriteLine(film.Title);
-                }
-                else
-                {
-                    Console.WriteLine("Invald input. Check that you picked one of the four categories offered.");
-                    break;
-                }
 
-
+                }
+               
             }
+
+
+
+
+
 
         }
 
